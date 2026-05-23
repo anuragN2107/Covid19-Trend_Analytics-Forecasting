@@ -52,19 +52,6 @@ The framework relies on dedicated software engines optimized for large-scale ana
 
 ---
 
-## 🚀 Execution Guide & Local Deployment
-
-### 1. Replicate the Environment
-Ensure your local platform handles isolation parameters perfectly via Python virtualenv or conda:
-
-```bash
-# Clone the remote version tracking setup
-git clone [https://github.com/anuragN2107/covid19-trend-analytics-forecasting.git](https://github.com/anuragN2107/covid19-trend-analytics-forecasting.git)
-cd covid19-trend-analytics-forecasting
-
-# Initialize an isolated virtual environment
-python3 -m venv env
-source env/bin/activate  # On Windows deploy: .\env\Scripts\activate
 
 # Apply mandatory binary modules
 pip install -r requirements.txt

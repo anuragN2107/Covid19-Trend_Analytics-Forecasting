@@ -59,7 +59,7 @@ Ensure your local platform handles isolation parameters perfectly via Python vir
 
 ```bash
 # Clone the remote version tracking setup
-git clone [https://github.com/YOUR_USERNAME/covid19-trend-analytics-forecasting.git](https://github.com/YOUR_USERNAME/covid19-trend-analytics-forecasting.git)
+git clone [https://github.com/anuragN2107/covid19-trend-analytics-forecasting.git](https://github.com/anuragN2107/covid19-trend-analytics-forecasting.git)
 cd covid19-trend-analytics-forecasting
 
 # Initialize an isolated virtual environment

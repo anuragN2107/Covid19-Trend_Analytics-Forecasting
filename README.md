@@ -44,8 +44,8 @@ A comprehensive data science framework dedicated to tracking, analyzing, and for
 | Resource | Access Link |
 | :--- | :--- |
 | **🚀 Interactive Code** | (https://github.com/anuragN2107/Covid19-Trend_Analytics-Forecasting/blob/main/Covid19_Trend_Analysis_Forecasting.ipynb) |
-| **📑 Project Report** | [View Documentation](https://github.com/anuragN2107/Covid19-Trend_Analytics Forecasting/blob/main/Covid19_Trend_Analysis_Forecasting_Report.docx) |
-| **📊 Dataset Source** | [Data Repository](https://github.com/anuragN2107/Covid19-Trend_Analytics-Forecasting/blob/main/Datasets/covid_19_clean_complete.csv) |
+| **📑 Project Report** | (https://github.com/anuragN2107/Covid19-Trend_Analytics Forecasting/blob/main/Covid19_Trend_Analysis_Forecasting_Report.docx) |
+| **📊 Dataset Source** | (https://github.com/anuragN2107/Covid19-Trend_Analytics-Forecasting/blob/main/Datasets/covid_19_clean_complete.csv) |
 
 ---
 *Developed as part of an advanced data science portfolio framework.*
